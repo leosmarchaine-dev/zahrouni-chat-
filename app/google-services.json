@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772507503023",
+    "project_id": "zahrouni-chat",
+    "storage_bucket": "zahrouni-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772507503023:android:6939615ba0096f0bcc875a",
+        "android_client_info": {
+          "package_name": "com.aistudio.tunisiachat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772507503023-5gao03ea9gkqe2oa55emt7h6p8ut1pkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkWP45SCc5pSrl-Fc3GqoLVJKOoJLvqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772507503023-5gao03ea9gkqe2oa55emt7h6p8ut1pkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

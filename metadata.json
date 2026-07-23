@@ -1,0 +1,6 @@
+{
+  "name": "Zahrouni Chat",
+  "description": "Zahrouni Chat - Modern secure messaging application with AI features, marketplace, stories, channels, calls, and black, blue & red styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
